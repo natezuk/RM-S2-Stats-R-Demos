@@ -5,3 +5,5 @@ dependencies:
   - r-base
   - r-essentials
   - r-afex
+  - r-emmeans
+  - r-patchwork
