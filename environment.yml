@@ -1,0 +1,6 @@
+name: stats-r
+channels:
+  - r
+dependencies:
+  - r-base
+  - r-essentials
